@@ -1,0 +1,16 @@
+{
+"companyName": "VoidNull",
+"productName": "RedBox",
+"productVersion": "0.1",
+"dataUrl": "af4de49461728d0ac357c9a46da2ce1c.unityweb",
+"wasmCodeUrl": "f817515552611b59d68a527443fd8699.unityweb",
+"wasmFrameworkUrl": "a54d6b151380ec6c6c6d89015f13bd17.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
